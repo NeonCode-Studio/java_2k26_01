@@ -1,0 +1,12 @@
+# Java
+*.class
+
+# VS Code
+.vscode/
+
+# build / cache
+bin/
+out/
+
+# Linux
+*~
