@@ -7,7 +7,7 @@ public class firstgui {
         JButton button = new JButton("neon makes me");
         
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(300, 200);
+        frame.setSize(100, 100);
         frame.add(button); 
         frame.setVisible(true);
     }
